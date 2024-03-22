@@ -1,0 +1,12 @@
+Nesta pasta 'model' estão contidos os arquivos .php de configurações das páginas.
+
+Com o intuito de agilizar o processo de desenvolvimento,
+algumas partes das páginas foram extraídas para esses arquivos únicos,
+onde é necessário fazer apenas uma alteração:
+
+Header.php
+Head.php
+Footer.php
+Fim-html.php
+Início-html.php
+Scripts.php
